@@ -30,9 +30,7 @@ Note: Durham's [Comprehensive Plan](https://engagedurham.com/comprehensive-plan/
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(warning = FALSE, message = FALSE)
-library(caliperR)
 library(nngeo)
-library(tcadr)
 library(sf)
 library(leaflet)
 library(PL94171)
@@ -60,7 +58,7 @@ vars_2019 <- load_variables(2019,"acs5", cache=TRUE)
 
 
 
-zones <- st_read("C:/Users/JacobFo/OneDrive - City of Durham/GitHub/Personal Blog/Personal Blog/_posts/2021-12-08-Quantifying-NIMBYism/Zoning.shp")
+zones <- st_read("Zoning.shp")
 
 
 
@@ -480,7 +478,7 @@ Let's develop a super simple quantitative measure for NIMBY-ism.
 Let's tag each zone in Durham with the population and households within the respective zone. We will then be able to see how housing supply changed from 2010 to 2020. 
 
 
-```{r eval=FALSE, include=FALSE}
+```{r include=FALSE}
 centroids_2020 <- blocks_2020 %>%
   st_point_on_surface() %>%
   st_join(res_zones %>% select(OBJECTID)) %>%
@@ -559,7 +557,7 @@ zone_map <- leaflet() %>%
                           "HHs Per Acre: ", joined$HH_per_acre)) %>%
   addLegend(
     position="bottomright",
-    #pal=joined$colour,
+    pal=pal,
     values=joined$HH_per_acre,
     title="Units/Acre"
   )
