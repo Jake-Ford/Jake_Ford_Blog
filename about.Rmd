@@ -1,11 +1,28 @@
 ---
 title: "About this blog"
 description: |
-  Some additional details about the blog
+
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
 
-here is a little something about me-self!
+## About
+
+
+My name is Jake Ford, I live in Durham, North Carolina. I'm a Data Scientist for [Solstice](https://solstice.us/), working to democratize access to solar energy. Previously, I've worked in policy analysis and transportation modeling at the state and local government level. 
+
+
+![](Arizona.png) 
+
+
+I like to think and write about policy related questions in a data science framework. Sometimes it's fun, sometime's it's serious, hopefully more often than not it's both! 
+
+
+Here's charlie, our rescue greyhound. You'll probably be seeing him a lot here. Look at that snoot. 
+
+
+![](Longest Snoot.png) 
+
+
+
+
+
