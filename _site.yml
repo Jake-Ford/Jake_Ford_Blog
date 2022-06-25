@@ -1,7 +1,7 @@
 name: "writes_and_wrongs"
-title: "My Blog"
+title: "Writes and Wrongs"
 description: |
-  My Blog
+  More Writing Less Wronging
 output_dir: "docs"
 navbar:
   right:
