@@ -22,7 +22,7 @@ library(leaflet)
 library(sf) 
 
 library(readxl)
-eats_data <- read_excel("/Users/jacobford/Documents/GitHub/Blog/Eat_Data.xlsx")
+eats_data <- read_excel("Eat_Data.xlsx")
 
 
 ```
