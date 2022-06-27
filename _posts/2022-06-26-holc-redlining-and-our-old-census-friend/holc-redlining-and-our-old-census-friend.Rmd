@@ -1,7 +1,7 @@
 ---
 title: "HOLC, Redlining and Our old Census Friend"
 description: |
-  A short description of the post.
+  centroids, centroids, centroids
 author:
   - name: Jacob Ford
     url: {}
