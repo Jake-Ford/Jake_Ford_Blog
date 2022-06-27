@@ -20,7 +20,7 @@
       "author": [],
       "date": "2022-06-25",
       "contents": "\n\nSolstice EnergyScore, a machine learning algorithm that delivers a\nmore effective and more equitable qualification metric. Through a grant,\nI spent several months investigating the degree of bias existing in the\nalgorithm, conducting a large literature review to identify leading\nquantitative measures of bias and fairness in ML. Results, along with a\nmore context + lit review can be found here.\n\n\n\n",
-      "last_modified": "2022-06-27T16:40:12-04:00"
+      "last_modified": "2022-06-27T16:43:10-04:00"
     }
   ],
   "collections": ["posts/posts.json"]
