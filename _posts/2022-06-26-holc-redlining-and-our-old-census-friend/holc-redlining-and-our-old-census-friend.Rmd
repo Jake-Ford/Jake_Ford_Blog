@@ -218,7 +218,7 @@ holc_map
 
 
 
-```{r}
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 pal <- colorFactor(
   palette='Dark2',
   domain=res_zones$density
