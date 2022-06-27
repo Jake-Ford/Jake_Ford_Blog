@@ -1,7 +1,7 @@
 ---
 title: "Court Ordered Districts - More Fair?"
 description: |
-  A short description of the post.
+ North Carolina's New Congressional Districts and ML
 author:
   - name: Jacob Ford
     url: https://jford-dchcmpo.github.io/Blog/posts/2021-12-30-Redistricting-and-Racial-Targetting/
