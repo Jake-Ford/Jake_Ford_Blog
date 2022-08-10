@@ -1,0 +1,53 @@
+---
+title: "2022 Reading List"
+author:
+  - name: Jacob Ford
+    url: {}
+date: "`r Sys.Date()`"
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+
+Less delicious than the food recommendations, but more so for the soul. My recent 2022 reading and listenings, yes I am a recent audiobook convert. Two I would highly recommend from the below: the biography of James A Baker III, which reads like a podcast version of the West Wing; and, sticking to the theme, Ron Silver aka Bruno Gianelli narration of Phillip Roth's masterpiece, Plot Against America. 
+
+Next on my list include China Mieville's The City & The City (print) and an autobiographical audiobook by Viola Davis, narrated by namesake herself! 
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+
+library(kableExtra)
+
+titles <- c('The Echo Maker',
+'Klara and the Sun',
+'The Man Who Ran Washington: The Life and Times of James A. Baker III',
+'Churwell & Orwell: The Fight for Freedom',
+'Flights',
+'Plot Against America',
+'Broken Earth Trilogy',
+'Descrates Bones')
+
+authors <- c(
+'Richard Powers',
+'Kazuo Ishiguro',
+'Peter Baker & Susan Glasser',
+'Thomas E. Ricks',
+'Olga Tokarczuk',
+'Phillip Roth',
+'NK Jemisin',
+'Russel Shorto'
+)
+
+reading_data <- data.frame(Title=titles,Author=authors)
+                           
+
+reading_data %>%
+  kbl() %>%
+  kable_classic(full_width = F, html_font = "Cambria")
+# chas_data_11%>%
+#   kbl(caption = "HUD CHAS 2014-2018 Houseolds by AMI",
+#       digits = 3, format.args = list(big.mark = ",",scientific = FALSE)) %>%
+#   kable_classic(full_width = F, html_font = "Cambria")
+```
+
