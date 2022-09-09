@@ -26,7 +26,9 @@ titles <- c('The Echo Maker',
 'Flights',
 'Plot Against America',
 'Broken Earth Trilogy',
-'Descrates Bones')
+'Descrates Bones',
+'The City and the City',
+'Dutch House - Tom Hanks narrated audiobook')
 
 authors <- c(
 'Richard Powers',
@@ -36,7 +38,9 @@ authors <- c(
 'Olga Tokarczuk',
 'Phillip Roth',
 'NK Jemisin',
-'Russel Shorto'
+'Russel Shorto',
+'China Melville',
+'Ann Patchett'
 )
 
 reading_data <- data.frame(Title=titles,Author=authors)
