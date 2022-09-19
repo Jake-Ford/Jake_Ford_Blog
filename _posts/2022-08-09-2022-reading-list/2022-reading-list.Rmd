@@ -13,7 +13,7 @@ output:
 
 Less delicious than the food recommendations, but more so for the soul. My recent 2022 reading and listenings, yes I am a recent audiobook convert. Two I would highly recommend from the below: the biography of James A Baker III, which reads like a podcast version of the West Wing; and, sticking to the theme, Ron Silver aka Bruno Gianelli narration of Phillip Roth's masterpiece, Plot Against America. 
 
-Next on my list include China Mieville's The City & The City (print) and an autobiographical audiobook by Viola Davis, narrated by namesake herself! 
+Other highlights: fanboying over Olga Tokarczuk. Also, I have a tendancy of reading multiple works by same author, finally got to Echo Maker after loving the Overstory; did not disappoint but did not surpass. And I've gone through five or so Phillip Roth pieces, starting with the unforgettable Portnoy's Complaint. But Plot Against America was stunning!  
 
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
@@ -28,7 +28,9 @@ titles <- c('The Echo Maker',
 'Broken Earth Trilogy',
 'Descrates Bones',
 'The City and the City',
-'Dutch House - Tom Hanks narrated audiobook')
+'Dutch House - Tom Hanks (!) narrated',
+'Song of Achilles',
+'Books of Jacob')
 
 authors <- c(
 'Richard Powers',
@@ -40,7 +42,10 @@ authors <- c(
 'NK Jemisin',
 'Russel Shorto',
 'China Melville',
-'Ann Patchett'
+'Ann Patchett',
+'Madeline Miller',
+'Olga Tokarczuk (again)'
+
 )
 
 reading_data <- data.frame(Title=titles,Author=authors)
