@@ -1,0 +1,25 @@
+---
+title: "South Korea Takeaways"
+description: |
+  Busan -> Gyeongju -> Seoul.
+author:
+  - name: Jacob Ford
+    url: {}
+date: 2022-09-30
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+Sitting on the plane for the return trip from South Korea. 
+
+Takeaways from this captivating country. 
+
+1. Food tours: My wife organized a food tour through a few of Seoul's many food markets for my birthday. A food tour remains the single most efficient use of condensed time to 'see' a city. 
+2. Busan - something about the dichotoomy between ocean and developoment is striking on a level I can't describe
+3. Seoul's National Museum (sic) is 1) housed in a massive and gorgeous building 2) would require better part of a full day to fully view, though can be sufficinetly sifted through in a wonderous stupor within 4 hours and 3) is free! 10/10 recommend. 
+4. Gyeongju - from the population, it was much more domestic travelers than international, which makes sense given the main attractions of (bulgska-ga?) and (Grotto name here), national treasures. 
+5. The distinct feeling of massive pride built over centuries of subjugation and/or international interference from Tang -> Mongols -> Chinese -> Japanese (if i'm getting that right) permeates the culture. It is exhibited in the art. The food reflects ingredients of locality and, at times, fastidious necessity to make do with what one has access to. 
+
+6. Transportation, ok lets talk about it. It was stunning. 
+
