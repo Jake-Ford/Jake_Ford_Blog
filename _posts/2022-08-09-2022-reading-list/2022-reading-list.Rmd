@@ -15,6 +15,8 @@ Less delicious than the food recommendations, but more so for the soul. My recen
 
 Other highlights: fanboying over Olga Tokarczuk. Also, I have a tendancy of reading multiple works by same author, finally got to Echo Maker after loving the Overstory; did not disappoint but did not surpass. And I've gone through five or so Phillip Roth pieces, starting with the unforgettable Portnoy's Complaint. But Plot Against America was stunning!  
 
+October 2022 Update: I'm not sure where to put this, but my best friend recommended a few mangas. I've put my nose up long enough - dove into the Solo Leveling, absolutely gripping. Will continue and let you know, some 200 chapters later :) 
+
 ```{r echo=FALSE, message=FALSE, warning=FALSE}
 
 library(kableExtra)
@@ -30,7 +32,10 @@ titles <- c('The Echo Maker',
 'The City and the City',
 'Dutch House - Tom Hanks (!) narrated',
 'Song of Achilles',
-'Books of Jacob')
+'Books of Jacob',
+'Giovannis Room',
+'The Witcher: The Last Wish',
+'The Power')
 
 authors <- c(
 'Richard Powers',
@@ -44,7 +49,10 @@ authors <- c(
 'China Melville',
 'Ann Patchett',
 'Madeline Miller',
-'Olga Tokarczuk (again)'
+'Olga Tokarczuk (again)',
+'James Baldwin',
+'Andrzej Sapkowski',
+'Naomi Alderman'
 
 )
 
