@@ -35,7 +35,9 @@ titles <- c('The Echo Maker',
 'Books of Jacob',
 'Giovannis Room',
 'The Witcher: The Last Wish',
-'The Power')
+'The Power',
+'Civilizations: A Novel',
+'Finding Me: A Memoir')
 
 authors <- c(
 'Richard Powers',
@@ -52,7 +54,9 @@ authors <- c(
 'Olga Tokarczuk (again)',
 'James Baldwin',
 'Andrzej Sapkowski',
-'Naomi Alderman'
+'Naomi Alderman',
+'Laurent Binet',
+'Viola Davis'
 
 )
 
