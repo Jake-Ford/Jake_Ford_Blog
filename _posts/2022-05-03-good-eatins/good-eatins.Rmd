@@ -11,11 +11,12 @@ output:
     self_contained: false
 ---
 
-These are the places I most love after ~4 years of North Carolina living. Most are based in Durham, no shame there, some call it the Mecca of the South. 
-
 Click on a location, get my 'don't miss' item(s) from each. 
 
 August 2022 update: Avoiding the doldrums of local reporting by inventive new gimics, the News & Observer's March Madness 2021 [burger bracket](https://www.newsobserver.com/living/food-drink/article255290876.html), that actually took place in the fall of 2021 - bestowed upon the brassiere [Neuse River Brewing](https://www.neuseriverbrewing.com/) the grand title, the tsar of taste, the sultan of sizzle, the best of the burgers. We had high expectations, they were somehow exceeded. 10/10 must try. 
+
+December update: Krill, you must go to Krill if you're in Durham. 
+
 
 
 ```{r setup, include=FALSE}
