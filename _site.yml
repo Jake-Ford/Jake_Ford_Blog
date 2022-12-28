@@ -2,7 +2,6 @@ name: " "
 title: "Posts"
 description: |
  The personsal website of Jake Ford
-base_url: jake-ford.github.io/Jake_Ford_Blog/
 output_dir: "docs"
 navbar:
   right:
@@ -12,8 +11,6 @@ navbar:
       href: about.html
     - text: "Projects"
       href: projects.html
-    - text: "CV"
-      href: jacob_ford_CV.html
     - icon: fa fa-linkedin
       href: https://www.linkedin.com/in/jacob-ford-80775662/
     - icon: fa fa-twitter
