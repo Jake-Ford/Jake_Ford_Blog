@@ -37,7 +37,9 @@ titles <- c('The Echo Maker',
 'The Witcher: The Last Wish',
 'The Power',
 'Civilizations: A Novel',
-'Finding Me: A Memoir')
+'Finding Me: A Memoir',
+'Black Cake',
+'Three Body Problem')
 
 authors <- c(
 'Richard Powers',
@@ -56,7 +58,9 @@ authors <- c(
 'Andrzej Sapkowski',
 'Naomi Alderman',
 'Laurent Binet',
-'Viola Davis'
+'Viola Davis',
+'Charmaine Wilkerson',
+'Liu Cixin'
 
 )
 
